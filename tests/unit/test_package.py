@@ -21,7 +21,7 @@ class TestPackageMetadata:
         """Test that __author__ is defined."""
         assert hasattr(consoul, "__author__")
         assert isinstance(consoul.__author__, str)
-        assert consoul.__author__ == "GoatBytes.IO"
+        assert consoul.__author__ == "Jared Rummler"
 
     def test_license_exists(self) -> None:
         """Test that __license__ is defined."""

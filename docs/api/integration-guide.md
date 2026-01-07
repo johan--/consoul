@@ -900,9 +900,9 @@ See [Domain-Specific Context Customization](#domain-specific-context-customizati
 ### Getting Help
 
 Questions about migration?
-- **[GitHub Discussions](https://github.com/goatbytes/consoul/discussions)** - Migration help
+- **[GitHub Discussions](https://github.com/jaredrummler/consoul/discussions)** - Migration help
 - **[Migration Guide](https://docs.consoul.ai/migration/profiles)** - Detailed guide
-- **[Examples](https://github.com/goatbytes/consoul/tree/main/examples/sdk)** - Profile-free examples
+- **[Examples](https://github.com/jaredrummler/consoul/tree/main/examples/sdk)** - Profile-free examples
 
 ---
 
@@ -1189,7 +1189,7 @@ pip install consoul
 
 ## Examples Repository
 
-See [GitHub examples](https://github.com/goatbytes/consoul/tree/main/examples) for:
+See [GitHub examples](https://github.com/jaredrummler/consoul/tree/main/examples) for:
 
 - FastAPI integration
 - Django integration
@@ -1207,8 +1207,8 @@ See [GitHub examples](https://github.com/goatbytes/consoul/tree/main/examples) f
 
 ## Support
 
-- **[GitHub Issues](https://github.com/goatbytes/consoul/issues)** - Report bugs
-- **[Discussions](https://github.com/goatbytes/consoul/discussions)** - Ask questions
+- **[GitHub Issues](https://github.com/jaredrummler/consoul/issues)** - Report bugs
+- **[Discussions](https://github.com/jaredrummler/consoul/discussions)** - Ask questions
 - **[Discord](https://discord.gg/consoul)** - Community chat
 
 ---

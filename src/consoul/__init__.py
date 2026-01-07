@@ -23,7 +23,7 @@ if _platform.system() == "Darwin":
 del _platform
 
 __version__ = "0.2.2"
-__author__ = "GoatBytes.IO"
+__author__ = "Jared Rummler"
 __license__ = "Apache-2.0"
 
 # High-level SDK (imported after __version__ to satisfy E402)

@@ -394,4 +394,4 @@ $ consoul history search "decorator"
 - Run `consoul --help` for CLI help
 - Type `/help` in TUI mode for interactive help
 - Visit the [documentation](index.md) for detailed guides
-- Report issues on [GitHub](https://github.com/goatbytes/consoul/issues)
+- Report issues on [GitHub](https://github.com/jaredrummler/consoul/issues)

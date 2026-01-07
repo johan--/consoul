@@ -38,7 +38,7 @@ pip install poetry
 ### 3. Clone the Repository
 
 ```bash
-git clone https://github.com/goatbytes/consoul.git
+git clone https://github.com/jaredrummler/consoul.git
 cd consoul
 ```
 
@@ -247,7 +247,7 @@ If tests fail:
 ## Getting Help
 
 - **Documentation**: See the [documentation home](index.md)
-- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/goatbytes/consoul/issues)
+- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/jaredrummler/consoul/issues)
 - **Contributing**: Review [CONTRIBUTING.md](contributing.md) for guidelines
 
 ## Code Style Guidelines

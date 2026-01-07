@@ -306,7 +306,7 @@ Quick Start:
 """
 
 __version__ = "0.1.0"
-__author__ = "GoatBytes.IO"
+__author__ = "Jared Rummler"
 __license__ = "Apache-2.0"
 
 # High-level SDK

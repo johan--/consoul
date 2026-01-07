@@ -135,7 +135,7 @@ Pulsing binary pattern radiating from center.
 See `examples/test_loading_standalone.py` for a working demo:
 
 ```bash
-cd ~/Development/github/goatbytes/consoul
+cd ~/Development/github/jaredrummler/consoul
 python examples/test_loading_standalone.py
 ```
 

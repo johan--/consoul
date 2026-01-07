@@ -286,11 +286,11 @@ class BinaryAnimator:
             "context = history.get_context_window(max_tokens=4000)",
             "# AI that remembers your preferences",
             "conversations = db.search('machine learning', limit=10)",
-            # === GOATBYTES BRANDING ===
-            "# Built with ❤️ by GoatBytes.IO",
-            "author = 'Jared Rummler <jared@goatbytes.io>'",
-            "website = 'https://goatbytes.io'",
-            "from goatbytes.consoul import magic",
+            # === BRANDING ===
+            "# Built with ❤️ by Jared Rummler",
+            "author = 'Jared Rummler <jared@jaredrummler.com>'",
+            "website = 'https://jaredrummler.com'",
+            "from consoul import magic",
             # === EASTER EGGS & PERSONALITY ===
             "# No goats were harmed making this AI assistant",
             "# WARNING: AI may judge your variable names silently",
@@ -386,7 +386,7 @@ class BinaryAnimator:
             "# The future: AI that codes while you dream",
             "# Imagine: Natural language -> Production code",
             "# Tomorrow: AI teammates, not just tools",
-            "# GoatBytes is building that future 🚀",
+            "# Jared is building that future 🚀",
             # === ACTUAL HUMAN QUESTIONS ===
             "consoul.chat('Why is my Docker container eating all my RAM?')",
             "consoul.chat('Help me understand why this regex works')",

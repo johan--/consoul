@@ -10,7 +10,7 @@ We release security updates for the following versions:
 
 ## Reporting a Vulnerability
 
-We take security seriously. If you discover a security vulnerability in Consoul, please report it by emailing **security@goatbytes.io**.
+We take security seriously. If you discover a security vulnerability in Consoul, please report it by emailing **jared@jaredrummler.com**.
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
@@ -308,7 +308,7 @@ Before enabling file editing in production:
 
 ### Reporting File Operations Vulnerabilities
 
-If you discover a security vulnerability in file editing tools, please report it immediately to **security@goatbytes.io** with:
+If you discover a security vulnerability in file editing tools, please report it immediately to **jared@jaredrummler.com** with:
 
 1. Description of the vulnerability
 2. Steps to reproduce

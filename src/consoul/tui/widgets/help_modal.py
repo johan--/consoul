@@ -229,15 +229,15 @@ class HelpModal(ModalScreen[None]):
         # Documentation
         yield Label("Documentation", classes="section-title")
         yield Static(
-            "GitHub: https://github.com/goatbytes/consoul",
+            "GitHub: https://github.com/jaredrummler/consoul",
             classes="link",
         )
         yield Static(
-            "Documentation: https://docs.goatbytes.io/consoul",
+            "Documentation: https://jaredrummler.github.io/consoul",
             classes="link",
         )
         yield Static(
-            "Issues: https://github.com/goatbytes/consoul/issues",
+            "Issues: https://github.com/jaredrummler/consoul/issues",
             classes="link",
         )
 
@@ -248,7 +248,7 @@ class HelpModal(ModalScreen[None]):
             classes="info-value",
         )
         yield Static(
-            "Created by GoatBytes.IO",
+            "Created by Jared Rummler",
             classes="info-value",
         )
 

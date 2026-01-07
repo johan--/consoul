@@ -1038,7 +1038,7 @@ print(result)
 
 4. **Report issue:**
 
-- GitHub: https://github.com/goatbytes/consoul/issues
+- GitHub: https://github.com/jaredrummler/consoul/issues
 - Include: Python version, OS, error message, minimal reproduction
 
 ### Quick Reference

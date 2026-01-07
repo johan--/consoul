@@ -421,7 +421,7 @@ Automatically updated:
 
 ## Examples
 
-See [`examples/sdk/model_registry_example.py`](https://github.com/goatbytes/consoul/blob/main/examples/sdk/model_registry_example.py) for comprehensive examples:
+See [`examples/sdk/model_registry_example.py`](https://github.com/jaredrummler/consoul/blob/main/examples/sdk/model_registry_example.py) for comprehensive examples:
 
 1. **List Models**: Browse available models with filters
 2. **Pricing Comparison**: Compare costs across tiers

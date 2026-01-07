@@ -278,7 +278,7 @@ def extract_github_repo() -> tuple[str, str] | None:
 
     Example:
         >>> extract_github_repo()
-        ('goatbytes', 'consoul')
+        ('jaredrummler', 'consoul')
     """
     url = get_remote_url()
 

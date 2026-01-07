@@ -10,10 +10,10 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "Apache-2.0"}
 authors = [
-    {name = "GoatBytes.IO", email = "jared@goatbytes.io"}
+    {name = "Jared Rummler", email = "jared@jaredrummler.com"}
 ]
 maintainers = [
-    {name = "GoatBytes.IO", email = "jared@goatbytes.io"}
+    {name = "Jared Rummler", email = "jared@jaredrummler.com"}
 ]
 keywords = [
     "ai",
@@ -133,11 +133,11 @@ all = ["textual>=6.6.0", "click>=8.3.1", "pyperclip>=1.11.0", "pillow>=10.0.0", 
 
 
 [project.urls]
-Homepage = "https://github.com/goatbytes/consoul"
+Homepage = "https://github.com/jaredrummler/consoul"
 Documentation = "https://consoul.goatbytes.io"
-Repository = "https://github.com/goatbytes/consoul"
-Issues = "https://github.com/goatbytes/consoul/issues"
-Changelog = "https://github.com/goatbytes/consoul/blob/main/CHANGELOG.md"
+Repository = "https://github.com/jaredrummler/consoul"
+Issues = "https://github.com/jaredrummler/consoul/issues"
+Changelog = "https://github.com/jaredrummler/consoul/blob/main/CHANGELOG.md"
 
 [project.scripts]
 consoul = "consoul.__main__:main"
@@ -147,11 +147,11 @@ consoul = "consoul.__main__:main"
 name = "consoul"
 version = "0.4.2"
 description = "AI-powered terminal assistant with rich TUI - brings ChatGPT/Claude to your command line"
-authors = ["GoatBytes.IO <jared@goatbytes.io>"]
+authors = ["Jared Rummler <jared@jaredrummler.com>"]
 license = "Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/goatbytes/consoul"
-repository = "https://github.com/goatbytes/consoul"
+homepage = "https://github.com/jaredrummler/consoul"
+repository = "https://github.com/jaredrummler/consoul"
 documentation = "https://consoul.goatbytes.io"
 keywords = ["ai", "assistant", "terminal", "tui", "cli", "chatgpt", "claude", "langchain", "textual"]
 classifiers = [

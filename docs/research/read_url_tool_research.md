@@ -53,14 +53,14 @@ After comprehensive research, **Jina AI Reader** emerges as the best solution fo
 
 #### Test Results
 
-**GoatBytes.IO homepage** (186 lines, 2.2s):
+**Jared Rummler homepage** (186 lines, 2.2s):
 ```markdown
-Title: GoatBytes.IO
+Title: Jared Rummler
 
 URL Source: https://goatbytes.io/
 
 Markdown Content:
-GoatBytes.IO
+Jared Rummler
 ===============
 
 Secure software solutions for a changing world
@@ -70,7 +70,7 @@ Secure software solutions for a changing world
 
 **GitHub profile** (clean extraction, nav removed):
 ```markdown
-Title: GoatBytes.IO
+Title: Jared Rummler
 
 URL Source: https://github.com/goatbytes
 
@@ -119,7 +119,7 @@ Its design philosophy emphasizes code readability with the use of
 significant indentation...
 ```
 
-**GoatBytes.IO**: ❌ **Failed** - Returned None (likely JS-rendered content)
+**Jared Rummler**: ❌ **Failed** - Returned None (likely JS-rendered content)
 
 **Conclusion**: Trafilatura works well for static content (news, Wikipedia, blogs) but fails on modern JS-heavy sites.
 
@@ -144,7 +144,7 @@ significant indentation...
 
 #### Test Results
 
-**GoatBytes.IO**: ⚠️ **Partial success** - Converted but included navigation, footers, etc.
+**Jared Rummler**: ⚠️ **Partial success** - Converted but included navigation, footers, etc.
 
 **Conclusion**: Good for simple HTML conversion but lacks intelligent content extraction.
 
@@ -335,14 +335,14 @@ def read_url(
 
 Current (limited):
 ```
-User: "Find information about GoatBytes.IO"
+User: "Find information about Jared Rummler"
 → web_search returns URLs
 → User sees titles/snippets only
 ```
 
 With read_url:
 ```
-User: "Find and read information about GoatBytes.IO"
+User: "Find and read information about Jared Rummler"
 → web_search finds URLs
 → read_url fetches full content from top result
 → User gets complete, formatted content

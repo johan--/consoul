@@ -37,7 +37,7 @@ Clone the repository and install in development mode:
 
 ```bash
 # Clone the repository
-git clone https://github.com/goatbytes/consoul.git
+git clone https://github.com/jaredrummler/consoul.git
 cd consoul
 
 # Install with Poetry

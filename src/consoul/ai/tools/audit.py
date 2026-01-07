@@ -67,7 +67,7 @@ class AuditEvent:
         ...     tool_name="bash_execute",
         ...     arguments={"command": "git status"},
         ...     decision=True,
-        ...     metadata={"user_id": "jared@goatbytes.io"}
+        ...     metadata={"user_id": "jared@jaredrummler.com"}
         ... )
     """
 

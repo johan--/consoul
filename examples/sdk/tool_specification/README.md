@@ -308,4 +308,4 @@ console = Consoul(tools=["search", "web"])  # Both categories
 
 ## Contributing
 
-Found an issue or have a suggestion? Please report it at the [Consoul repository](https://github.com/goatbytes/consoul).
+Found an issue or have a suggestion? Please report it at the [Consoul repository](https://github.com/jaredrummler/consoul).

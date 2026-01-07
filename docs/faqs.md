@@ -182,7 +182,7 @@ Try:
 
 ### How do I report bugs?
 
-Please report bugs on our [GitHub Issues](https://github.com/goatbytes/consoul/issues) page.
+Please report bugs on our [GitHub Issues](https://github.com/jaredrummler/consoul/issues) page.
 
 ## Features
 
@@ -250,9 +250,9 @@ See our [Contributing Guide](contributing.md) for details on:
 
 ### Where can I get help?
 
-- **Documentation**: [https://goatbytes.github.io/consoul/](https://goatbytes.github.io/consoul/)
-- **GitHub Issues**: [https://github.com/goatbytes/consoul/issues](https://github.com/goatbytes/consoul/issues)
-- **Discussions**: [https://github.com/goatbytes/consoul/discussions](https://github.com/goatbytes/consoul/discussions)
+- **Documentation**: [https://jaredrummler.github.io/consoul/](https://jaredrummler.github.io/consoul/)
+- **GitHub Issues**: [https://github.com/jaredrummler/consoul/issues](https://github.com/jaredrummler/consoul/issues)
+- **Discussions**: [https://github.com/jaredrummler/consoul/discussions](https://github.com/jaredrummler/consoul/discussions)
 
 ### Is Consoul open source?
 

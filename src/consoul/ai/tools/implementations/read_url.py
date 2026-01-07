@@ -14,7 +14,7 @@ Example:
     >>> from consoul.ai.tools.implementations.read_url import read_url
     >>> # Basic usage (uses Jina Reader, falls back to trafilatura)
     >>> result = read_url.invoke({
-    ...     "url": "https://goatbytes.io/about",
+    ...     "url": "https://jaredrummler.com",
     ... })
     >>>
     >>> # Force fallback to trafilatura (local, private)
@@ -471,7 +471,7 @@ def read_url(
 
     Example:
         >>> # Basic usage (uses Jina, falls back to trafilatura)
-        >>> read_url("https://goatbytes.io/about")
+        >>> read_url("https://jaredrummler.com")
         'Title: About GoatBytes.IO\\n\\nMarkdown Content:\\n...'
         >>>
         >>> # Force local processing (privacy-focused)

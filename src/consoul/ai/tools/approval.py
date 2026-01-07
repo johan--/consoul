@@ -84,7 +84,7 @@ class ToolApprovalRequest:
         ...     risk_level=RiskLevel.SAFE,
         ...     tool_call_id="call_abc123",
         ...     description="Execute bash command",
-        ...     context={"user": "jared@goatbytes.io"}
+        ...     context={"user": "jared@jaredrummler.com"}
         ... )
     """
 

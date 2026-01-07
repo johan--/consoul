@@ -232,4 +232,4 @@ tools:
 ## Feedback
 
 Found an issue or have a suggestion? Please open an issue:
-https://github.com/goatbytes/consoul/issues
+https://github.com/jaredrummler/consoul/issues

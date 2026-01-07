@@ -211,7 +211,7 @@ class InitializationErrorScreen(Screen[None]):
             "• Check the error details below for more information\n"
             "• Try running with --debug flag for verbose logging\n"
             "• Report persistent issues at:\n"
-            "  https://github.com/goatbytes/consoul/issues"
+            "  https://github.com/jaredrummler/consoul/issues"
         )
 
     def on_button_pressed(self, event: Button.Pressed) -> None:

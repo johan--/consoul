@@ -506,8 +506,8 @@ console = Consoul(
 
 ## Support
 
-- **Issues**: https://github.com/goatbytes/consoul/issues
-- **Discussions**: https://github.com/goatbytes/consoul/discussions
+- **Issues**: https://github.com/jaredrummler/consoul/issues
+- **Discussions**: https://github.com/jaredrummler/consoul/discussions
 - **Documentation**: https://docs.consoul.ai
 
 ---

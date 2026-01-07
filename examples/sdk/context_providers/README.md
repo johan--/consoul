@@ -217,7 +217,7 @@ The SDK will catch exceptions and continue with partial context from other provi
 ## Support
 
 For questions or issues:
-- GitHub Issues: https://github.com/goatbytes/consoul/issues
+- GitHub Issues: https://github.com/jaredrummler/consoul/issues
 - Documentation: https://docs.consoul.ai
 
 ---

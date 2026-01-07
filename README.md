@@ -233,4 +233,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Made with ❤️ by [GoatBytes.IO](https://goatbytes.io)**
+**Made with ❤️ by [Jared Rummler](https://jaredrummler.com)**

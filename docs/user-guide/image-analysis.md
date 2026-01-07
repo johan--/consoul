@@ -546,6 +546,6 @@ A: Yes, set `tools.image_analysis.enabled: false` in your config.
 
 Having issues? Found a bug?
 
-- 📖 [Documentation](https://github.com/goatbytes/consoul/tree/main/docs)
-- 🐛 [Report Issues](https://github.com/goatbytes/consoul/issues)
-- 💬 [Discussions](https://github.com/goatbytes/consoul/discussions)
+- 📖 [Documentation](https://github.com/jaredrummler/consoul/tree/main/docs)
+- 🐛 [Report Issues](https://github.com/jaredrummler/consoul/issues)
+- 💬 [Discussions](https://github.com/jaredrummler/consoul/discussions)

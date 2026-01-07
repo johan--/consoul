@@ -456,13 +456,13 @@ print(f"Estimated cost: ${cost['estimated_cost']:.4f}")
 
 ## Support
 
-- **[GitHub Issues](https://github.com/goatbytes/consoul/issues)** - Report bugs
-- **[Discussions](https://github.com/goatbytes/consoul/discussions)** - Ask questions
-- **[Documentation](https://goatbytes.github.io/consoul/)** - Full docs
+- **[GitHub Issues](https://github.com/jaredrummler/consoul/issues)** - Report bugs
+- **[Discussions](https://github.com/jaredrummler/consoul/discussions)** - Ask questions
+- **[Documentation](https://jaredrummler.github.io/consoul/)** - Full docs
 
 ## License
 
-MIT License - see [LICENSE](https://github.com/goatbytes/consoul/blob/main/LICENSE)
+MIT License - see [LICENSE](https://github.com/jaredrummler/consoul/blob/main/LICENSE)
 
 ---
 
